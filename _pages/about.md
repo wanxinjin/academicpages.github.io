@@ -45,13 +45,11 @@ arXiv 2019 <br />
 
 -----
 
-
-<!-- ![image](images/myicon.jpeg){: style="float: left" height="20px" width="150px"} -->
 <img src="images/myicon.jpeg" alt="Kitten" title="A cute kitten" width="150" height="150" align="left" hspace="10" />
 **Inverse Optimal Control for Multiphase Cost Functions** <br />
 W. Jin, D. Kulic, J.F. Lin, S. Mou, and S. Hirche <br />
 IEEE Transactions on Robotics 35(6), 2019 <br />
-[[pdf]](https://ieeexplore.ieee.org/document/8778698) [[code]](https://ieeexplore.ieee.org/document/8778698) [[more]]({%link _posts/2020-04-08-blog-post-2.md %})<br /><br />
+[[pdf]](https://ieeexplore.ieee.org/document/8778698) [[code]](https://ieeexplore.ieee.org/document/8778698)<br /><br />
 
 
 
