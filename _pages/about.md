@@ -10,7 +10,7 @@ redirect_from:
 
 About
 =====
-I am a PhD student at the School of Aeronautics and Astronautics, Purdue University, working with Prof. Shaoshuai Mou. Prior to Purdue, I worked as a research assistant at Technical University of Munich, Germany, for one year. I earned Bachelor and Master degrees in Control Science and Engineering at Harbin Institute of Technology, in 2010 and 2014, respectively.
+I am a PhD student at the School of Aeronautics and Astronautics, Purdue University, working with Prof. Shaoshuai Mou. Prior to Purdue, I worked as a research assistant at Technical University of Munich, Germany, in 2016-2017.
 
 -----
 
@@ -32,12 +32,15 @@ Research
 
 Recent Publications & Preprints
 ======
-<!-- ![image](images/myicon.jpeg){: style="float: left; padding:16px" height="20px" width="200px"} -->
-<img src="images/myicon.jpeg" alt="Kitten" title="A cute kitten" width="150" height="150" align="left" hspace="10" />
+<p style="margin-bottom:1cm; margin-left: 0.5cm"> </p>
+
+<img src="images/introexample.jpg" alt="Kitten" title="PDP" width="150px" height="150px" align="left" hspace="20" vspace="20" />
 **Pontryagin Differentiable Programming: An End-to-End Learning and Control Framework** <br />
 W. Jin, Z. Wang, Z. Yang, and S. Mou<br />
 arXiv 2019 <br />
-[[pdf]](https://arxiv.org/abs/1912.12970) [[code]](https://arxiv.org/abs/1912.12970) [[more]]({%link _posts/2020-04-07-blog-post-1.md %})<br /><br />
+[[pdf]](https://arxiv.org/abs/1912.12970) [[code]](https://github.com/wanxinjin/Pontryagin-Differentiable-Programming) [[blog]]({%link _posts/2020-04-07-blog-post-1.md %})<br /><br />
+
+
 
 
 
@@ -46,12 +49,11 @@ arXiv 2019 <br />
 -----
 
 
-<!-- ![image](images/myicon.jpeg){: style="float: left" height="20px" width="150px"} -->
-<img src="images/myicon.jpeg" alt="Kitten" title="A cute kitten" width="150" height="150" align="left" hspace="10" />
+<img src="images/ioc_multiphase.jpg" alt="Kitten" title="IOC-Mutiphase" width="150px" height="150px" align="left" hspace="20" vspace="10"/>
 **Inverse Optimal Control for Multiphase Cost Functions** <br />
 W. Jin, D. Kulic, J.F. Lin, S. Mou, and S. Hirche <br />
 IEEE Transactions on Robotics 35(6), 2019 <br />
-[[pdf]](https://ieeexplore.ieee.org/document/8778698) [[code]](https://ieeexplore.ieee.org/document/8778698) [[more]]({%link _posts/2020-04-08-blog-post-2.md %})<br /><br />
+[[pdf]](https://ieeexplore.ieee.org/document/8778698) [[code]](https://ieeexplore.ieee.org/document/8778698)<br /><br />
 
 
 
@@ -60,11 +62,11 @@ IEEE Transactions on Robotics 35(6), 2019 <br />
 
 
 <!-- ![image](images/myicon.jpeg){: style="float: left" height="20px" width="150px"} -->
-<img src="images/myicon.jpeg" alt="Kitten" title="A cute kitten" width="150" height="150" align="left" hspace="10" />
+<img src="images/ioc.png" alt="Kitten" title="A cute kitten" width="150px" height="150px" align="left" hspace="20" vspace="20"/>
 **Inverse Optimal Control with Incomplete Observations** <br />
 W. Jin, D. Kulic, S. Mou, and S. Hirche <br />
 IJRR, under reivew, 2019<br />
-[[pdf]](https://arxiv.org/pdf/1803.07696.pdf) [[code]](https://arxiv.org/pdf/1803.07696.pdf) [more]
+[[pdf]](https://arxiv.org/pdf/1803.07696.pdf) [[code]](https://arxiv.org/pdf/1803.07696.pdf)
 
 
 
