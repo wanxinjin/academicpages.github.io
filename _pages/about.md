@@ -33,10 +33,19 @@ Research
 Recent Publications & Preprints
 ======
 <p style="margin-bottom:1cm; margin-left: 0.5cm"> </p>
+<img src="images/safe_learning.png" alt="Kitten" title="PDP" width="150" height="150" align="left" hspace="20" vspace="10" />
+**Neural Certificates for Safe Control Policies** <br />
+**W. Jin**, Z. Wang, Z. Yang, and S. Mou<br />
+arXiv 2020 <br />
+[[pdf]](https://arxiv.org/abs/2006.08465) [[code]](https://arxiv.org/abs/2006.08465) 
+<br /><br />
+
+
+-----
 <img src="images/introexample.png" alt="Kitten" title="PDP" width="150" height="150" align="left" hspace="20" vspace="20" />
 **Pontryagin Differentiable Programming: An End-to-End Learning and Control Framework** <br />
 **W. Jin**, Z. Wang, Z. Yang, and S. Mou<br />
-arXiv 2019 <br />
+arXiv 2020 <br />
 [[pdf]](https://arxiv.org/abs/1912.12970) [[code]](https://github.com/wanxinjin/Pontryagin-Differentiable-Programming) [[blog]]({%link _posts/2020-04-07-blog-post-1.md %})<br /><br />
 
 
