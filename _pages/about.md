@@ -37,7 +37,7 @@ Recent Publications & Preprints
 **Learning from Sparse Demonstrations** <br />
 **W. Jin**, T. D. Murphey, D. Kulic, N. Ezer, and S. Mou<br />
 arXiv 2020 <br />
-[[pdf]]() [[code]]() [[blog]]({%link _posts/2020-07-07-blog-post-1.md %})
+[[pdf]](https://arxiv.org/abs/2008.02159) [[code]]() [[blog]]({%link _posts/2020-07-07-blog-post-1.md %})
 <br /><br />
 
 
