@@ -72,7 +72,7 @@ Automatica, under review, 2019 <br />
 **Inverse Optimal Control for Multiphase Cost Functions** <br />
 **W. Jin**, D. Kulic, J.F. Lin, S. Mou, and S. Hirche <br />
 IEEE Transactions on Robotics 35(6), 2019 <br />
-[[pdf]](https://ieeexplore.ieee.org/document/8778698) [[code]](https://ieeexplore.ieee.org/document/8778698)<br /><br />
+[[pdf]](https://ieeexplore.ieee.org/document/8778698) [[code]](https://github.com/wanxinjin/IOC-for-Multiphase-Cost-Functions)<br /><br />
 
 
 
@@ -82,7 +82,7 @@ IEEE Transactions on Robotics 35(6), 2019 <br />
 **Inverse Optimal Control with Incomplete Observations** <br />
 **W. Jin**, D. Kulic, S. Mou, and S. Hirche <br />
 IJRR, under review, 2019<br />
-[[pdf]](https://arxiv.org/pdf/1803.07696.pdf) [[code]](https://arxiv.org/pdf/1803.07696.pdf)
+[[pdf]](https://arxiv.org/pdf/1803.07696.pdf) [[code]](https://github.com/wanxinjin/IOC-from-Incomplete-Trajectory-Observations)
 
 
 
