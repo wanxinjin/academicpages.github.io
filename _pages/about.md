@@ -51,18 +51,19 @@ arXiv 2020 <br />
 
 
 -----
-<img src="images/introexample.png" alt="Kitten" title="PDP" width="150" height="150" align="left" hspace="20" vspace="20" />
+<img src="images/introexample.png" alt="Kitten" title="PDP" width="150" height="150" align="left" hspace="20" vspace="40" />
 **Pontryagin Differentiable Programming: An End-to-End Learning and Control Framework** <br />
 **W. Jin**, Z. Wang, Z. Yang, and S. Mou<br />
-arXiv 2020 <br />
+Advances in Neural Information Processing Systems (NeurIPS), 2020 Accepted  <br />
 [[pdf]](https://arxiv.org/abs/1912.12970) [[code]](https://github.com/wanxinjin/Pontryagin-Differentiable-Programming) [[blog]]({%link _posts/2020-04-07-blog-post-1.md %})<br /><br />
 
 
 -----
-<img src="images/DIOC.png" alt="Kitten" title="PDP" width="150" height="150" align="left" hspace="20" vspace="30" />
+<img src="images/DIOC.png" alt="Kitten" title="PDP" width="150" height="150" align="left" hspace="20" vspace="40" />
 **Distributed Inverse Optimal Control** <br />
 **W. Jin** and S. Mou<br />
-Automatica, under review, 2019 <br />
+Automatica, 2019 <br />
+Conditionally Accepted  <br />
 [[pdf]]() [[code]]() 
 <br /><br />
 
@@ -78,11 +79,12 @@ IEEE Transactions on Robotics 35(6), 2019 <br />
 
 
 ------
-<img src="images/ioc_incomplete.png" alt="Kitten" title="A cute kitten" width="150" height="150" align="left" hspace="20" vspace="20"/>
-**Inverse Optimal Control with Incomplete Observations** <br />
+<img src="images/ioc_incomplete.png" alt="Kitten" title="A cute kitten" width="150" height="500" align="left" hspace="20" vspace="50"/>
+**Inverse Optimal Control from Incomplete Trajectory Observations** <br />
 **W. Jin**, D. Kulic, S. Mou, and S. Hirche <br />
-IJRR, under review, 2019<br />
-[[pdf]](https://arxiv.org/pdf/1803.07696.pdf) [[code]](https://github.com/wanxinjin/IOC-from-Incomplete-Trajectory-Observations)
+International Journal of Robotics Research (IJRR), 2019 <br />
+Conditionally Accepted<br />
+[[pdf]](https://arxiv.org/pdf/1803.07696.pdf) [[code]](https://github.com/wanxinjin/IOC-from-Incomplete-Trajectory-Observations)  
 
 
 
