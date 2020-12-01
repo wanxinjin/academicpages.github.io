@@ -1,15 +1,26 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
-Education
+
+
+
+[Click  to download Wanxin's latest CV](/files/WanxinJIN_CV.pdf)
+  
+
+
+
+
+
+
+<!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
@@ -56,4 +67,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

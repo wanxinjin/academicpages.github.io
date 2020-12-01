@@ -10,28 +10,44 @@ redirect_from:
 
 About
 =====
-I am a PhD student at School of Aeronautics and Astronautics, Purdue University, working with Prof. Shaoshuai Mou. Prior to Purdue, I worked as a research assistant at Technical University of Munich, Germany, 2016-2017.
+I am a PhD student at School of Aeronautics and Astronautics, Purdue University, working with [Prof. Shaoshuai Mou](https://engineering.purdue.edu/AIMS). Prior to Purdue, I worked as a research assistant at Technical University of Munich, Germany. 
 
 -----
+
 
 
 Research
 ======
-* Inverse optimal control, inverse reinforcement learning 
-* Control + learning: control for learning & learning in control
-* Learning from demonstrations, Human-robot interaction
-* Image processing (previous interest) <br /><br />
+* **Control + Learning**: 
+	* Inverse optimal control, Inverse reinforcement learning 
+	* Differentiable  learning and control,  Robust learning and control
+	* Optimal control, Reinforcement learning,  Robust control 
+* **Robotics + Human**:
+	* Learning from demonstrations,  Imitation learning
+	* Human-robot interaction, Human motion analysis
+
+* Additional Interest: Computer vision, Image processing, SLAM
+<br />
 
 -----
 
 
-
-
-
-
-
 Recent Publications & Preprints
 ======
+<p style="margin-bottom:1cm; margin-left: 0.5cm"> </p>
+<img src="images/lfc.png" alt="Kitten" title="PDP" width="150" height="150" align="left" hspace="20" vspace="10" />
+**Learning from Incremental Directional Corrections** <br />
+**W. Jin**, T. D. Murphey, and S. Mou<br />
+arXiv 2020 <br />
+[[pdf]](https://arxiv.org/abs/2011.15014) [[code]](https://github.com/wanxinjin/Learning-from-Directional-Corrections) [[blog]]({%link _posts/2020-10-07-blog-post-1.md %})
+<br /><br />
+
+
+
+
+
+
+-----
 <p style="margin-bottom:1cm; margin-left: 0.5cm"> </p>
 <img src="images/learning_from_sparse.png" alt="Kitten" title="PDP" width="150" height="150" align="left" hspace="20" vspace="10" />
 **Learning from Sparse Demonstrations** <br />
@@ -50,12 +66,27 @@ arXiv 2020 <br />
 <br /><br />
 
 
+
+
 -----
-<img src="images/introexample.png" alt="Kitten" title="PDP" width="150" height="150" align="left" hspace="20" vspace="40" />
+<p style="margin-bottom:1cm; margin-left: 0.5cm"> </p>
+<img src="images/IOC_Seg.png" alt="Kitten" title="PDP" width="150" height="150" align="left" hspace="20" vspace="10" />
+**Inverse Optimal Control from Demonstration Segments** <br />
+**W. Jin**, Z. Liang, and S. Mou<br />
+arXiv 2020 <br />
+[[pdf]](https://arxiv.org/pdf/2010.15034.pdf)  [[code]]() 
+<br /><br />
+
+
+
+-----
+<img src="images/PDP_image.png" alt="Kitten" title="PDP" width="150" height="150" align="left" hspace="20" vspace="40" />
 **Pontryagin Differentiable Programming: An End-to-End Learning and Control Framework** <br />
 **W. Jin**, Z. Wang, Z. Yang, and S. Mou<br />
 Advances in Neural Information Processing Systems (NeurIPS), 2020 Accepted  <br />
 [[pdf]](https://arxiv.org/abs/1912.12970) [[code]](https://github.com/wanxinjin/Pontryagin-Differentiable-Programming) [[blog]]({%link _posts/2020-04-07-blog-post-1.md %})<br /><br />
+
+
 
 
 -----
@@ -85,6 +116,9 @@ IEEE Transactions on Robotics 35(6), 2019 <br />
 International Journal of Robotics Research (IJRR), 2019 <br />
 Conditionally Accepted<br />
 [[pdf]](https://arxiv.org/pdf/1803.07696.pdf) [[code]](https://github.com/wanxinjin/IOC-from-Incomplete-Trajectory-Observations)  
+
+-----
+
 
 
 
