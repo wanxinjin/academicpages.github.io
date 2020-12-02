@@ -74,7 +74,7 @@ arXiv 2020 <br />
 **Inverse Optimal Control from Demonstration Segments** <br />
 **W. Jin**, Z. Liang, and S. Mou<br />
 arXiv 2020 <br />
-[[pdf]](https://arxiv.org/pdf/2010.15034.pdf)
+[[pdf]](https://arxiv.org/pdf/2010.15034.pdf) <span style="color:rgb(100, 170, 190)">[code coming soon]</span>.
 <br /><br />
 
 
@@ -95,7 +95,7 @@ Advances in Neural Information Processing Systems (NeurIPS), 2020 Accepted  <br 
 **W. Jin** and S. Mou<br />
 Automatica, 2019 <br />
 Conditionally Accepted  <br />
-[pdf coming soon]
+<span style="color:rgb(100, 170, 190)">[pdf coming soon]</span>.
 <br /><br />
 
 
@@ -108,7 +108,7 @@ Conditionally Accepted  <br />
 The International Journal of Robotics Research (IJRR), 2019 <br />
 Conditionally Accepted<br />
 [[pdf]](https://arxiv.org/pdf/1803.07696.pdf) [[code]](https://github.com/wanxinjin/IOC-from-Incomplete-Trajectory-Observations)  
-
+<br />
 
 
 -----
@@ -117,11 +117,12 @@ Conditionally Accepted<br />
 **W. Jin**, D. Kulic, J.F. Lin, S. Mou, and S. Hirche <br />
 IEEE Transactions on Robotics (T-RO),  35(6), 2019 <br />
 [[pdf]](https://ieeexplore.ieee.org/document/8778698) [[code]](https://github.com/wanxinjin/IOC-for-Multiphase-Cost-Functions)  
-<br /><br />
+<br />
 
 -----
 
 
+For a full list of publications, please check my CV [here](/files/WanxinJIN_CV.pdf).
 
 
 
