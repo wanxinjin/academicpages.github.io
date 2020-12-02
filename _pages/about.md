@@ -74,7 +74,7 @@ arXiv 2020 <br />
 **Inverse Optimal Control from Demonstration Segments** <br />
 **W. Jin**, Z. Liang, and S. Mou<br />
 arXiv 2020 <br />
-[[pdf]](https://arxiv.org/pdf/2010.15034.pdf) <span style="color:rgb(100, 170, 190)">[code coming soon]</span>.
+[[pdf]](https://arxiv.org/pdf/2010.15034.pdf) <span style="color:rgb(100, 170, 190)">[code coming soon]</span>
 <br /><br />
 
 
@@ -83,7 +83,7 @@ arXiv 2020 <br />
 <img src="images/PDP_image.png" alt="Kitten" title="PDP" width="150" height="150" align="left" hspace="20" vspace="40" />
 **Pontryagin Differentiable Programming: An End-to-End Learning and Control Framework** <br />
 **W. Jin**, Z. Wang, Z. Yang, and S. Mou<br />
-Advances in Neural Information Processing Systems (NeurIPS), 2020 Accepted  <br />
+Advances in Neural Information Processing Systems (NeurIPS), 2020  <br />
 [[pdf]](https://arxiv.org/abs/1912.12970) [[code]](https://github.com/wanxinjin/Pontryagin-Differentiable-Programming) [[blog]]({%link _posts/2020-04-07-blog-post-1.md %})<br /><br />
 
 
@@ -95,7 +95,7 @@ Advances in Neural Information Processing Systems (NeurIPS), 2020 Accepted  <br 
 **W. Jin** and S. Mou<br />
 Automatica, 2019 <br />
 Conditionally Accepted  <br />
-<span style="color:rgb(100, 170, 190)">[pdf coming soon]</span>.
+<span style="color:rgb(100, 170, 190)">[pdf coming soon]</span>
 <br /><br />
 
 
