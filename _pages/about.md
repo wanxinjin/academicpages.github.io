@@ -19,7 +19,7 @@ I am a PhD student at School of Aeronautics and Astronautics, Purdue University,
 Research
 ======
 * **Control + Learning**: 
-	* Inverse optimal control, Inverse reinforcement learning 
+	* Inverse optimal control, Inverse reinforcement learning
 	* Differentiable  learning and control,  Robust learning and control
 	* Optimal control, Reinforcement learning,  Robust control 
 * **Robotics + Human**:
@@ -62,7 +62,7 @@ arXiv 2020 <br />
 **Neural Certificates for Safe Control Policies** <br />
 **W. Jin**, Z. Wang, Z. Yang, and S. Mou<br />
 arXiv 2020 <br />
-[[pdf]](https://arxiv.org/abs/2006.08465) [[code]](https://arxiv.org/abs/2006.08465) 
+[[pdf]](https://arxiv.org/abs/2006.08465) [[code]](https://github.com/wanxinjin/Neural-Certificates-Safe-Policies) 
 <br /><br />
 
 
@@ -74,7 +74,7 @@ arXiv 2020 <br />
 **Inverse Optimal Control from Demonstration Segments** <br />
 **W. Jin**, Z. Liang, and S. Mou<br />
 arXiv 2020 <br />
-[[pdf]](https://arxiv.org/pdf/2010.15034.pdf)  [[code]]() 
+[[pdf]](https://arxiv.org/pdf/2010.15034.pdf)
 <br /><br />
 
 
@@ -95,16 +95,7 @@ Advances in Neural Information Processing Systems (NeurIPS), 2020 Accepted  <br 
 **W. Jin** and S. Mou<br />
 Automatica, 2019 <br />
 Conditionally Accepted  <br />
-[[pdf]]() [[code]]() 
 <br /><br />
-
-
------
-<img src="images/ioc_multiphase.png" alt="Kitten" title="A cute kitten" width="150" height="150" align="left" hspace="20" vspace="10" />
-**Inverse Optimal Control for Multiphase Cost Functions** <br />
-**W. Jin**, D. Kulic, J.F. Lin, S. Mou, and S. Hirche <br />
-IEEE Transactions on Robotics 35(6), 2019 <br />
-[[pdf]](https://ieeexplore.ieee.org/document/8778698) [[code]](https://github.com/wanxinjin/IOC-for-Multiphase-Cost-Functions)<br /><br />
 
 
 
@@ -113,9 +104,18 @@ IEEE Transactions on Robotics 35(6), 2019 <br />
 <img src="images/ioc_incomplete.png" alt="Kitten" title="A cute kitten" width="150" height="500" align="left" hspace="20" vspace="50"/>
 **Inverse Optimal Control from Incomplete Trajectory Observations** <br />
 **W. Jin**, D. Kulic, S. Mou, and S. Hirche <br />
-International Journal of Robotics Research (IJRR), 2019 <br />
+The International Journal of Robotics Research (IJRR), 2019 <br />
 Conditionally Accepted<br />
 [[pdf]](https://arxiv.org/pdf/1803.07696.pdf) [[code]](https://github.com/wanxinjin/IOC-from-Incomplete-Trajectory-Observations)  
+
+
+
+-----
+<img src="images/ioc_multiphase.png" alt="Kitten" title="A cute kitten" width="150" height="150" align="left" hspace="20" vspace="10" />
+**Inverse Optimal Control for Multiphase Cost Functions** <br />
+**W. Jin**, D. Kulic, J.F. Lin, S. Mou, and S. Hirche <br />
+IEEE Transactions on Robotics (T-RO),  35(6), 2019 <br />
+[[pdf]](https://ieeexplore.ieee.org/document/8778698)<br /><br />
 
 -----
 
