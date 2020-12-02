@@ -80,7 +80,7 @@ arXiv 2020 <br />
 
 
 -----
-<img src="images/PDP_image.png" alt="Kitten" title="PDP" width="150" height="150" align="left" hspace="20" vspace="40" />
+<img src="images/PDP_image.png" alt="Kitten" title="PDP" width="150" height="150" align="left" hspace="20" vspace="22" />
 **Pontryagin Differentiable Programming: An End-to-End Learning and Control Framework** <br />
 **W. Jin**, Z. Wang, Z. Yang, and S. Mou<br />
 Advances in Neural Information Processing Systems (NeurIPS), 2020  <br />
