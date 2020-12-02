@@ -102,7 +102,7 @@ Conditionally Accepted  <br />
 
 
 ------
-<img src="images/ioc_incomplete.png" alt="Kitten" title="A cute kitten" width="150" height="500" align="left" hspace="20" vspace="50"/>
+<img src="images/ioc_incomplete2.png" alt="Kitten" title="A cute kitten" width="150" height="500" align="left" hspace="20" vspace="50"/>
 **Inverse Optimal Control from Incomplete Trajectory Observations** <br />
 **W. Jin**, D. Kulic, S. Mou, and S. Hirche <br />
 The International Journal of Robotics Research (IJRR), 2019 <br />
