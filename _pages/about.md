@@ -95,7 +95,8 @@ Advances in Neural Information Processing Systems (NeurIPS), 2020 Accepted  <br 
 **W. Jin** and S. Mou<br />
 Automatica, 2019 <br />
 Conditionally Accepted  <br />
-<br />
+[pdf coming soon]
+<br /><br />
 
 
 
