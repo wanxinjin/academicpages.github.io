@@ -74,7 +74,7 @@ arXiv 2020 <br />
 **Inverse Optimal Control from Demonstration Segments** <br />
 **W. Jin**, Z. Liang, and S. Mou<br />
 arXiv 2020 <br />
-[[pdf]](https://arxiv.org/pdf/2010.15034.pdf) <span style="color:rgb(100, 170, 190)">[code coming soon]</span>
+[[pdf]](https://arxiv.org/pdf/2010.15034.pdf) [[code]](https://github.com/ZihaoLiang/Inverse-Optimal-Control-from-Demonstration-Segments)
 <br /><br />
 
 
