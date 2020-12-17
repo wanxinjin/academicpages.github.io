@@ -20,7 +20,7 @@ Research
 ======
 * **Control + Learning**: 
 	* Inverse optimal control, Inverse reinforcement learning
-	* Differentiable  learning and control,  Robust learning and control
+	* Differentiable control and learning,  Robust/certificated learning and control
 	* Optimal control, Reinforcement learning,  Robust control 
 * **Robotics + Human**:
 	* Learning from demonstrations,  Imitation learning
