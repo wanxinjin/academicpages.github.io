@@ -93,7 +93,7 @@ Advances in Neural Information Processing Systems (NeurIPS), 2020  <br />
 <img src="images/DIOC.png" alt="Kitten" title="PDP" width="150" height="150" align="left" hspace="20" vspace="40" />
 **Distributed Inverse Optimal Control** <br />
 **W. Jin** and S. Mou<br />
-Automatica, 2019 <br />
+Automatica, 2020 <br />
 Conditionally Accepted  <br />
 <span style="color:rgb(100, 170, 190)">[pdf coming soon]</span>
 <br /><br />
@@ -105,8 +105,8 @@ Conditionally Accepted  <br />
 <img src="images/ioc_incomplete2.png" alt="Kitten" title="A cute kitten" width="150" height="500" align="left" hspace="20" vspace="50"/>
 **Inverse Optimal Control from Incomplete Trajectory Observations** <br />
 **W. Jin**, D. Kulic, S. Mou, and S. Hirche <br />
-The International Journal of Robotics Research (IJRR), 2019 <br />
-Conditionally Accepted<br />
+The International Journal of Robotics Research (IJRR), 2020 <br />
+Accepted, in press<br />
 [[pdf]](https://arxiv.org/pdf/1803.07696.pdf) [[code]](https://github.com/wanxinjin/IOC-from-Incomplete-Trajectory-Observations)  
 <br />
 
