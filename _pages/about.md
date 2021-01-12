@@ -20,11 +20,11 @@ Research
 ======
 * **Control + Learning**: 
 	* Inverse optimal control, Inverse reinforcement learning
-	* Differentiable control and learning,  Robust/certificated learning and control
+	* Differentiable control and learning,  Safe learning and control
 	* Optimal control, Reinforcement learning,  Robust control 
 * **Robotics + Human**:
 	* Learning from demonstrations,  Imitation learning
-	* Human-robot interaction, Human motion analysis
+	* Learning with human-in-the-loop, Human-robot interaction
 
 * Additional Interest: Computer vision, Image processing, SLAM
 <br />
