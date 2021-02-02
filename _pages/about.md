@@ -10,7 +10,7 @@ redirect_from:
 
 About
 =====
-I am a PhD student at School of Aeronautics and Astronautics, Purdue University, working with [Prof. Shaoshuai Mou](https://engineering.purdue.edu/AIMS). Prior to Purdue, I worked as a research assistant at Technical University of Munich, Germany. 
+I am a PhD student at School of Aeronautics and Astronautics, Purdue University. Prior to Purdue, I worked as a research assistant at Technical University of Munich, Germany. 
 
 -----
 
