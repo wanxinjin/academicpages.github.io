@@ -19,21 +19,31 @@ I am a PhD student at School of Aeronautics and Astronautics, Purdue University.
 Research
 ======
 * **Control + Learning**: 
-	* Inverse optimal control, Inverse reinforcement learning
 	* Differentiable control and learning,  Safe learning and control
-	* Optimal control, Reinforcement learning,  Robust control 
+	* Inverse optimal control, Inverse reinforcement learning
+	* Optimal control, Reinforcement learning
 * **Robotics + Human**:
 	* Learning from demonstrations,  Imitation learning
 	* Learning with human-in-the-loop, Human-robot interaction
 
-* Additional Interest: Computer vision, Image processing, SLAM
 <br />
-
 -----
+
 
 
 Recent Publications & Preprints
 ======
+
+<img src="images/SafePDP.png" alt="Kitten" title="SafePDP" width="150" height="160" align="left" hspace="20" vspace="15" />
+**Safe Pontryagin Differentiable Programming** <br />
+**W. Jin**, S. Mou, and George J. Pappas<br />
+arXiv 2021  <br />
+[[pdf]](https://arxiv.org/abs/2105.14937) [[code]](https://github.com/wanxinjin/Safe-PDP) [[blog]]({%link _posts/2021-05-01-blog-post-1.md %})
+<br /><br />
+
+
+
+-----
 <p style="margin-bottom:1cm; margin-left: 0.5cm"> </p>
 <img src="images/lfc.png" alt="Kitten" title="PDP" width="150" height="150" align="left" hspace="20" vspace="10" />
 **Learning from Incremental Directional Corrections** <br />
@@ -93,7 +103,7 @@ Advances in Neural Information Processing Systems (NeurIPS), 2020  <br />
 <img src="images/DIOC.png" alt="Kitten" title="PDP" width="150" height="150" align="left" hspace="20" vspace="40" />
 **Distributed Inverse Optimal Control** <br />
 **W. Jin** and S. Mou<br />
-Automatica, 2021, Accepted, in press <br />
+Automatica, vol. 129, 2021 <br />
 <span style="color:rgb(100, 170, 190)">[pdf coming soon]</span>
 <br /><br />
 
@@ -104,7 +114,7 @@ Automatica, 2021, Accepted, in press <br />
 <img src="images/ioc_incomplete2.png" alt="Kitten" title="A cute kitten" width="150" height="500" align="left" hspace="20" vspace="50"/>
 **Inverse Optimal Control from Incomplete Trajectory Observations** <br />
 **W. Jin**, D. Kulic, S. Mou, and S. Hirche <br />
-The International Journal of Robotics Research (IJRR), 2021 <br />
+The International Journal of Robotics Research (IJRR), 40(6–7), 2021 <br />
 Accepted, in press<br />
 [[pdf]](https://arxiv.org/pdf/1803.07696.pdf) [[code]](https://github.com/wanxinjin/IOC-from-Incomplete-Trajectory-Observations)  
 <br />
