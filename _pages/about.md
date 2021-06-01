@@ -104,7 +104,7 @@ Advances in Neural Information Processing Systems (NeurIPS), 2020  <br />
 **Distributed Inverse Optimal Control** <br />
 **W. Jin** and S. Mou<br />
 Automatica, vol. 129, 2021 <br />
-<span style="color:rgb(100, 170, 190)">[pdf coming soon]</span>
+<span style="color:rgb(100, 170, 190)">[[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0005109821001783)</span>
 <br /><br />
 
 
