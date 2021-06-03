@@ -12,8 +12,11 @@ About
 =====
 I am a PhD student at School of Aeronautics and Astronautics, Purdue University. Prior to Purdue, I worked as a research assistant at Technical University of Munich, Germany. 
 
+<p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
+
 -----
 
+<p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
 
 
 Research
@@ -26,13 +29,18 @@ Research
 	* Learning from demonstrations,  Imitation learning
 	* Learning with human-in-the-loop, Human-robot interaction
 
-<br />
+<p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
+
 -----
+
+<p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
 
 
 
 Recent Publications & Preprints
 ======
+
+<p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
 
 <img src="images/SafePDP.png" alt="Kitten" title="SafePDP" width="150" height="160" align="left" hspace="20" vspace="15" />
 **Safe Pontryagin Differentiable Programming** <br />
