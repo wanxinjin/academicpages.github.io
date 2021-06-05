@@ -42,7 +42,7 @@ Recent Publications & Preprints
 
 <p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
 
-<img src="images/SafePDP.png" alt="Kitten" title="SafePDP" width="150" height="160" align="left" hspace="20" vspace="15" />
+<img src="images/SafePDP.png" alt="Kitten" title="SafePDP" width="150" height="140" align="left" hspace="20" vspace="15" />
 **Safe Pontryagin Differentiable Programming** <br />
 **W. Jin**, S. Mou, and George J. Pappas<br />
 arXiv 2021  <br />
@@ -124,7 +124,7 @@ Automatica, vol. 129, 2021 <br />
 **W. Jin**, D. Kulic, S. Mou, and S. Hirche <br />
 The International Journal of Robotics Research (IJRR), 40(6–7), 2021 <br />
 Accepted, in press<br />
-[[pdf]](https://arxiv.org/pdf/1803.07696.pdf) [[code]](https://github.com/wanxinjin/IOC-from-Incomplete-Trajectory-Observations)  
+[[pdf]](https://journals.sagepub.com/doi/abs/10.1177/0278364921996384) [[code]](https://github.com/wanxinjin/IOC-from-Incomplete-Trajectory-Observations)  
 <br />
 
 
