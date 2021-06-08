@@ -12,6 +12,8 @@ About
 =====
 I am a PhD student at School of Aeronautics and Astronautics, Purdue University. Prior to Purdue, I worked as a research assistant at Technical University of Munich, Germany. 
 
+This Fall, I will be joining University of Pennsylvania for postdoc!
+
 <p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
 
 -----
@@ -123,7 +125,6 @@ Automatica, vol. 129, 2021 <br />
 **Inverse Optimal Control from Incomplete Trajectory Observations** <br />
 **W. Jin**, D. Kulic, S. Mou, and S. Hirche <br />
 The International Journal of Robotics Research (IJRR), 40(6–7), 2021 <br />
-Accepted, in press<br />
 [[pdf]](https://journals.sagepub.com/doi/abs/10.1177/0278364921996384) [[code]](https://github.com/wanxinjin/IOC-from-Incomplete-Trajectory-Observations)  
 <br />
 
