@@ -12,7 +12,7 @@ About
 =====
 I am a PhD student at School of Aeronautics and Astronautics, Purdue University. Prior to Purdue, I worked as a research assistant at Technical University of Munich, Germany. 
 
-This Fall, I will be joining University of Pennsylvania for postdoc!
+This Fall, I will join the GRASP Lab, University of Pennsylvania, as a Postdoctoral Researcher.
 
 <p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
 
